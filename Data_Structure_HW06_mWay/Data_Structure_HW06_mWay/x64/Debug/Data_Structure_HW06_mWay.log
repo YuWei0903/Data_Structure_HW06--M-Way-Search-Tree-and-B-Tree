@@ -1,0 +1,4 @@
+﻿  Data_Structure_HW06_mWay.cpp
+D:\Work\CSIE_Course\Data_Structure\Data_Structure_HW06_mWay\Data_Structure_HW06_mWay\Data_Structure_HW06_mWay.cpp(44,34): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\Work\CSIE_Course\Data_Structure\Data_Structure_HW06_mWay\Data_Structure_HW06_mWay\Data_Structure_HW06_mWay.cpp(97,46): warning C4267: 'return': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Data_Structure_HW06_mWay.vcxproj -> D:\Work\CSIE_Course\Data_Structure\Data_Structure_HW06_mWay\x64\Debug\Data_Structure_HW06_mWay.exe
